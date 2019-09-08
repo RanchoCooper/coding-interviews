@@ -1,4 +1,4 @@
-package singleton;
+package No02.Singleton;
 
 /**
  * @author rancho
