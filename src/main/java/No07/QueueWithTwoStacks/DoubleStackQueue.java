@@ -1,4 +1,4 @@
-package No06.ConstructBinaryTree.No07;
+package No07.QueueWithTwoStacks;
 
 import java.util.Stack;
 

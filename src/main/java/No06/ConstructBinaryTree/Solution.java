@@ -8,7 +8,7 @@ import java.util.Arrays;
  *
  * 递归解法
  */
-public class Solution1 {
+public class Solution {
 
     public class TreeNode {
         int val;
