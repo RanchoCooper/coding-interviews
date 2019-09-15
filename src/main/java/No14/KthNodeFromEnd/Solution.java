@@ -34,8 +34,6 @@ public class Solution {
             behind = behind.next;
         }
         return behind;
-
-
     }
 
 }
